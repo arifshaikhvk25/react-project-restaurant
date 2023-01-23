@@ -46,6 +46,7 @@
     margin: 0 1rem;
     text-decoration: none;
     transition: 0.5s ease;
+    font-family: var(--font-alt);
 }
 
 .app__navbar-login a:hover{

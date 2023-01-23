@@ -3,7 +3,7 @@
     color: white;
 }
  .app__header-h1{
-    font-family: var(--font-base);
+    font-family: var(--font-alt);
     color: var(--color-golden);
     letter-spacing: 0.04em;
     text-transform: uppercase;
